@@ -1,0 +1,3 @@
+[submodule "day1"]
+    path = day1
+    url = git@github.com:Manicharan01/day1.git
